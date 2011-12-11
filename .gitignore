@@ -1,0 +1,15 @@
+.DS_Store
+*.pyc
+*.pyo
+*.orig
+*.swp
+*.o
+*.so
+*.egg-info
+.coverage
+.installed.cfg
+bin/
+build
+eggs/*
+develop-eggs/
+parts/
